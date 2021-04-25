@@ -39,5 +39,5 @@
 </details>
 
 
-[twitter]: twitter.com/risussardonius
-[instagram]: www.instagram.com/myigitcoskun/
+[twitter]: https://www.twitter.com/risussardonius
+[instagram]: https://www.instagram.com/myigitcoskun/
