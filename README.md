@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/vPuszmHgeWnIhTkSr5/source.gif" align ="right" width="300" height="250">
+<img src="https://media.giphy.com/media/xUPGcHqwOCIvM8lPna/source.gif" align ="right" width="300" height="250">
 
 # Hi, I'm Yigit
 
