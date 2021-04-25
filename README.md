@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImMaess
 - 👀 I’m interested in basketball, Artificial intelligence
-- 🌱 I’m currently learning algorithms, machine learning, python
+- 🌱 I’m currently learning algorithms, machine learning, python, java
 - 📫 How to reach me E-Mail: yigitcoskuun@gmail.com / Instagram: @myigitcoskun / twitter: @risussardonius
 
 <!---
