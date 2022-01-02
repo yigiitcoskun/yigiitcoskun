@@ -2,7 +2,7 @@
 
 # Hi, I'm Yigit
 
-## High school student | New in programming
+## | New in programming
 ### - :eyes: I’m interested in Artificial intelligence, Data science.
 ### - :seedling: I’m currently learning everything. :bow:
 ### - :dizzy: I love also playing bass, basketball, coffee :coffee:
