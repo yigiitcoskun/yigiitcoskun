@@ -15,12 +15,12 @@
 -----------------------------------------------
 
 <details><summary>Github Stats</summary>
-<img src = "https://github-readme-stats.vercel.app/api?username=immaess&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api?username=yigiitcoskun&theme=radical">
 </details>
 
 
 <details><summary>Most Used Languages</summary>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=immaess&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yigiitcoskun&layout=compact">
 </details>
 
 
