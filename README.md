@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mustafa Yiğit Coşkun
 
-I'm a **Mobile Application Developer** and **Full-Stack Web Developer**. I graduated from **Biruni University** with a degree in **Computer Programming**. My journey in software development started during high school, and since then I've worked on a variety of mobile and web projects.
+I'm a **Mobile Application Developer**. I graduated from **Biruni University** with a degree in **Computer Programming**. My journey in software development started during high school, and since then I've worked on a variety of mobile and web projects.
 
 ## 🚀 Tech Stack & Skills
 
