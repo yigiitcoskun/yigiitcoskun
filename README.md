@@ -32,7 +32,7 @@ I'm a **Mobile Application Developer** and **Full-Stack Web Developer**. I gradu
 ## 🌐 Connect with Me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]  
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin" align="left" />][linkedin]
 
 <br/>
 
@@ -40,5 +40,5 @@ I'm a **Mobile Application Developer** and **Full-Stack Web Developer**. I gradu
 
 > 🛠️ Follow me for updates on my latest projects and tech explorations!
 
-[linkedin]: www.linkedin.com/in/mustafa-yigit-coskun
+[linkedin]: https://www.linkedin.com/in/mustafa-yigit-coskun
 [instagram]: https://www.instagram.com/myigitcoskun/
