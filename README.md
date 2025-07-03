@@ -8,7 +8,7 @@ I'm a **Mobile Application Developer** and **Full-Stack Web Developer**. I gradu
 - **Frontend:** React.js, Bootstrap, HTML, CSS, JavaScript  
 - **Backend:** Python, Django  
 - **Databases:** SQLite, PostgreSQL  
-- **Tools:** Git, GitHub, VS Code, Postman  
+- **Tools:** Git, GitHub, Vim, Postman  
 
 ## 🧠 About Me
 
