@@ -15,5 +15,4 @@
 </details>
 
 
-[twitter]: https://www.twitter.com/risussardonius
 [instagram]: https://www.instagram.com/myigitcoskun/
