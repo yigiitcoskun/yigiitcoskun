@@ -32,7 +32,7 @@ I'm a **Mobile Application Developer** and **Full-Stack Web Developer**. I gradu
 ## 🌐 Connect with Me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]  
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin" align="left" />][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 <br/>
 
