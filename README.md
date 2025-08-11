@@ -6,7 +6,7 @@ I'm a **Mobile Application Developer**. I graduated from **Biruni University** w
 
 - **Mobile Development:** React Native  
 - **Frontend:** React.js, Bootstrap, HTML, CSS, JavaScript  
-- **Backend:** Python, Django  
+- **Backend:** Python, Django, Php, Laravel  
 - **Databases:** SQLite, PostgreSQL  
 - **Tools:** Git, GitHub, Vim, Postman  
 
