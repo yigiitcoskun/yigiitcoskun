@@ -17,18 +17,6 @@ I'm a **Mobile Application Developer**. I graduated from **Biruni University** w
 - 🌱 Continuously improving my skills and learning new technologies.
 - 🎯 Passionate about creating scalable and user-friendly software solutions.
 
-## 📈 GitHub Stats
-
-<details>
-<summary>📊 Overall Statistics</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=yigiitcoskun&theme=radical&show_icons=true" alt="Yiğit's GitHub Stats" />
-</details>
-
-<details>
-<summary>🧩 Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigiitcoskun&layout=compact&theme=radical" alt="Top Languages" />
-</details>
-
 ## 🌐 Connect with Me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
